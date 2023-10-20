@@ -31,3 +31,16 @@ Playbacks
 
 Quiz - try to guess the endpoints
 
+
+Todos
+	Completed:
+		- Add a karaoke caption
+		- Add a HTML5 audio file
+	Next:
+		- Add formatted full lyrics
+		- Syncronize lyrics with the audio
+	Looking Forward:
+		- Receive audio input
+		- Sing a full song and get a 5-stars-rating
+		- vocaroo logic?
+		- Song Catalog
